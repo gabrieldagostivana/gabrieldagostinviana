@@ -6,6 +6,7 @@ education: curso tecnico: desenvolvimento de sietemas
     "Bachelor's Degree in Computer Engineering at University of Pernambuco (UPE/Poli)"
   ]
 
+
 fields_of_interests:
   [
     "Data Science",
